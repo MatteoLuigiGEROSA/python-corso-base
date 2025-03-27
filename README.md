@@ -18,6 +18,7 @@ Per installare **Git** su Windows:
 5. Al termine, clicca su **Finish**.
 
 <br>
+
 Per scaricare questo materiale (repository **PythonCorsoBase**):
 
 1. Dopo l’installazione di Git, clicca su **Start** (oppure premi il tasto Windows).
